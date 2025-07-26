@@ -5,7 +5,7 @@ $resultado = $conexion->query("SELECT temas.*, usuarios.usuario FROM temas JOIN 
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Foro Hermandad</title>
+    <title>Foro Hermandad Custom Lleida</title>
     <link rel="stylesheet" href="estilos.css">
 </head>
 <body>
